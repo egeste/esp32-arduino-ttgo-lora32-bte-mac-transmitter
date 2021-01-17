@@ -8,13 +8,14 @@ This code was written using the Arduino IDE.
 
 The following packages are required.
 
-https://github.com/espressif/arduino-esp32
-https://github.com/sandeepmistry/arduino-LoRa
+* https://github.com/espressif/arduino-esp32
+* https://github.com/sandeepmistry/arduino-LoRa
 
 ## Hardware
 
  * TTGO LoRa32 https://amzn.to/2XQFzty
  * Valefold buck converter/voltage regulator https://amzn.to/38R0LGs
+ * 9v battery connector https://amzn.to/3bLawHW
  * 9v battery
 
 ## Seeking help in these areas
