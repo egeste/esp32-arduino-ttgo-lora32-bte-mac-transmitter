@@ -8,8 +8,8 @@ This code was written using the Arduino IDE.
 
 The following packages are required.
 
-https://github.com/espressif/arduino-esp32
-https://github.com/sandeepmistry/arduino-LoRa
+* https://github.com/espressif/arduino-esp32
+* https://github.com/sandeepmistry/arduino-LoRa
 
 ## Hardware
 
