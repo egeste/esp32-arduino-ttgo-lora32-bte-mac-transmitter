@@ -1,6 +1,6 @@
 # TTGO LoRa32 Bluetooth/WiFi MAC Address Transmitter
 
-This is a device intended to provide the capability to detect the presence of devices in the depdloyment area, and allow that data to be received from a significant distance. This is useful for tracking neighborhood ingress and egress, and collecting evidence of actors operating within a given space.
+This is a device intended to provide the capability to detect the presence of devices in an area, and allow that data to be received from a significant distance. This is useful for tracking neighborhood ingress and egress, and collecting evidence of actors operating within a given space.
 
 ## Arduino/Dependencies
 
